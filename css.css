@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+*{
+	margin: 0px;
+	padding:0px;
+}
+#Banner {
+	background-image: url(su-san-lee-E_eWwM29wfU-unsplash.jpg);
+	height: 900px;
+	background-size:cover;
+	font-family: 'Roboto', sans-serif;
+}
+#Banner h3{
+	color: white;
+	width: 50%;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 20px;
+}
+#Banner h1{
+	text-align: center;
+	color: white;
+	padding-top:450px;
+	font-size:60px;
+	font-family: 'Roboto', sans-serif;
+}
+#Banner P{
+	text-align: center;
+	color: white;
+	font-size: 17px;
+}
+.push{
+	border:none;
+	border-radius: 20px;
+	background-color: orange;
+	height: 40px;
+	display: block;
+	margin: auto;
+	width: 130px;
+	font-family: 'Roboto', sans-serif;
+	font-size:20px;
+	color: white;
+}
+#Sreen{
+	text-align: center;
+	padding: 50px 0px 0px;
+	font-family: 'Roboto', sans-serif;
+}
+#pic1 img {
+	height: 250px!important;
+}
+#pic2 img {
+	height: 250px!important;
+}
+#pic3 img {
+	height: 250px!important;
+}
+#pic1 {
+	float: left;
+	width: 27%;
+	padding-left:160px;
+	font-size: 25px;
+}
+#pic2{
+	float: right;
+	width: 27%;
+	padding-right:160px;
+	font-size: 25px;
+}
+#pic3{
+	font-size: 25px;
+}
+#Us{
+	background-image: url(1_16527_02.jpg);
+	height: 700px;
+	background-size: cover;
+	margin: 50px 0px 0px;
+	text-align: center;
+color: white;
+}
+#Us h1{
+	padding-top: 50px;
+}
+#icon{
+	padding-top: 100px;
+	font-size: 100px;
+}
+#ic1{
+	float: left;
+	width: 40%;
+		padding: 0px 0px 0px 70px;
+}
+#ic1 h1{
+	font-size: 20pt
+}
+#ic1 h2{
+	font-size: 12pt;
+	text-align: center;
+}
+#ic2{
+	float: right;
+	width:40%;
+	padding:0px 70px 0px 0px
+		
+}
+#ic3 h1{
+	font-size: 20pt
+}
+#ic3 h2{
+	font-size: 12pt;
+	text-align: center;
+	padding: 30px
+}
+#ic2 h1{font-size: 20pt
+}
+#ic2 h2{
+	font-size: 12pt;
+	text-align: center;
+}
+#say h1{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 50px;
+}
+#say h2{
+	text-align: center;
+	font-size: 150px;
+	font-family: 'Roboto', sans-serif;
+}
+#say h3{
+	text-align: center;
+	padding: 0px 150px;
+}
+#say p{
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 20px;
+	color:orange;
+	padding-bottom: 30px;
+}
+#Foot{
+	text-align: center;
+	background-color: black;
+	height: 50px;
+}
+#Foot h3{
+	color: white;
+	padding: 15px
+}
+#Banner input:hover{
+	background-color: white;
+	color: black;
+}
+#Us input:hover{
+	background-color: white;
+	color: black;
+}
